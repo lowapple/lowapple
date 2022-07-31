@@ -40,7 +40,7 @@
 
 💻 현재 안드로이드 개발자로 [엘핀](https://lfin.kr)에서 근무 중 입니다.
 
-📚 블로그: https://blog.lowapple.io/블로그
+📚 블로그: https://lowapple.blog
 
 📫 이메일: https://mailhide.io/e/Ui2NSuGF
 
