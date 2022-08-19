@@ -38,7 +38,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-💻 현재 안드로이드 개발자로 [엘핀](https://lfin.kr)에서 근무 중 입니다.
+💻 현재 안드로이드 개발자로 [유니크굿컴퍼니](https://www.uniquegood.biz/)에서 근무 중 입니다.
 
 📚 블로그: https://lowapple.blog
 
